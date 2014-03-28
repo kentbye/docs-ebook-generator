@@ -41,7 +41,7 @@ The biggest thing that needs to be created is the INPUTFILENAME. A tentative ord
 * Clean up the other folders and post to GitHub
 * Try to fix the broken links by adding a baseurl to the HTML to see if the links will complete.
 * Automatically place the title text over a PNG for the title page with [ImageMagick annotations](http://www.imagemagick.org/Usage/annotating/).
-** Automate the moving of MCollective photos and other photos that are annotated as TODOs in the scripts directory
+* Automate the moving of MCollective photos and other photos that are annotated as TODOs in the scripts directory
 * Remove extraneous "Hiera 1" & "Facter 2.0" from all of the HTML page titles
 
 
