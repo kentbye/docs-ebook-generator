@@ -1,0 +1,1 @@
+ /facter/2.0/release_notes.html

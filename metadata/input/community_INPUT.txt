@@ -1,0 +1,1 @@
+community_guidelines.html puppet_projects_workflow.html trivial_patch_exemption.html

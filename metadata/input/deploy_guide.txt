@@ -1,0 +1,8 @@
+ ./index.html
+ ./dg_first_steps.html
+ ./dg_define_infrastructure.html
+ ../../references/glossary.html
+ ../../puppet/2.7/reference/index.html
+ ../../pe/latest/index.html
+ ../../pe/latest/quick_start.html
+ ../../pe/latest/quick_writing.html
