@@ -5,7 +5,9 @@ cd ../;
 wget http://docs.puppetlabs.com/puppetdocs-latest.tar.gz;
 
 echo "** Uncompressing all of the docs into puppetdocs-latest";
-tar zxf puppetdocs-latest.tar.gz -C puppetdocs-latest;
+cd puppetdocs-latest;
+tar zxf ../puppetdocs-latest.tar.gz;
+cd ../;
 
 echo "** Copying the original puppetdocs";
 cp -r puppetdocs-latest run-script-on-original;
